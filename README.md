@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Customer Churn & Risk Intelligence Analysis
+# 🛒 E-Commerce Customer Churn Analysis
 
 Overview
 Analyzed 5,630 customer records to identify churn 
