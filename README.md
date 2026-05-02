@@ -9,8 +9,6 @@ for customer retention.
 - Source: Kaggle E-Commerce Customer Churn Dataset
 - Total customers: 5,630
 - Churned customers: 948 (16.8%)
-- Features analyzed: Tenure, Satisfaction Score, 
-  Complaints, City Tier, Payment Method
 
  Business Questions Answered
 1. What is the overall churn rate?
